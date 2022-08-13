@@ -1,6 +1,6 @@
 {
     "name": "Prozexis/metunic-api-php-client",
-    "description": "",
+    "description": "Metunic API Swagger PHP Client",
     "keywords": [
         "swagger",
         "php",
