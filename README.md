@@ -55,7 +55,7 @@ Please follow the [installation procedure](#installation--usage) and then run th
 
 ```php
 <?php
-require_once(__DIR__ . '/vendor/autoload.php');
+require_once(__DIR__ . '/autoload.php');
 
 // Configure API key authorization: cookieScheme
 $config = Swagger\Client\Configuration::getDefaultConfiguration()->setApiKey('Cookie', 'cookieScheme');
@@ -338,3 +338,4 @@ Class | Method | HTTP request | Description
 
 
 ## Author
+Murat Pala @Prozexis
